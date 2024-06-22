@@ -1,5 +1,5 @@
-# livewell
-To run the servers for Wellness Watch, begin by downloading the repository.
+
+To run the servers for Livewell, begin by downloading the repository.
 
 # Clone this repository
 $ git clone https://github.com/hauolinalani/livewell.git
