@@ -1,0 +1,26 @@
+.main-content {
+  min-height: 90vh;
+}
+
+h5 {
+  padding-top: 20px;
+}
+
+.logo {
+  font-size: 144px;
+}
+
+.header-inputs {
+  display: flex;
+  justify-content: center;
+}
+
+.datepicker {
+  margin: 1rem;
+}
+
+.add-btn {
+  border-radius: 3px;
+  margin-top: 24px;
+  width: 150px;
+}
