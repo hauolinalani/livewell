@@ -15,7 +15,6 @@ $ pip install -r requirements.txt
 
 # Run the Flask service
 $ python3 app.py
-Explain
 The JS Server will be hosted at http://localhost:5000.
 
 The Flask service will be hosted at http://localhost:5002
@@ -31,5 +30,5 @@ $ npm install
 
 # Run the app
 $ npm start
-Explain
+
 The App will be hosted at http://localhost:3000
