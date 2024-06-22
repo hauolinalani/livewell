@@ -1,0 +1,5 @@
+json
+sklearn
+flask
+flask_restful
+numpy
